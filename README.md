@@ -3,7 +3,9 @@
 ### Hi Developers 👋
 
 
-I'm Suma Gayathri
+I'm Suma Gayathri.
+
+
 The crossover between design and programming has always been of interest to me.I love to learn. I have a wide range of skills that include back-end development using open source technologies (NodeJs), front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive), database(MongoDB,Mysql). I have technical skills(C, Java , Python)
 
 ![Visitor Count](https://profile-counter.glitch.me/sumagayathri-999/count.svg)
